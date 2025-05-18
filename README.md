@@ -1,8 +1,8 @@
-# Sistema de Recomendação de Filmes com Redes Neurais Gráficas
+# Sistema de Recomendação de Filmes
 
 ## 📋 Descrição do Projeto
 
-Este projeto consiste no desenvolvimento de um sistema de recomendação de filmes utilizando redes neurais gráficas para fornecer sugestões personalizadas baseadas em análise complexa de padrões de preferência dos usuários.
+Este projeto consiste no desenvolvimento de um sistema de recomendação de filmes utilizando grafos para fornecer sugestões personalizadas baseadas em análise complexa de padrões de preferência dos usuários.
 
 ## 🎯 Objetivo
 
