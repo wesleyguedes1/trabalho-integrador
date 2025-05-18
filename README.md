@@ -68,7 +68,7 @@ trabalho-integrador/
 
 ## 🚀 Como Usar Este Repositório
 
-2. **Navegação por CCR:**
+ **Navegação por CCR:**
    - Para Banco de Dados: `cd banco-de-dados/`
    - Para Programação: `cd programacao/`
 
