@@ -79,7 +79,7 @@ O acompanhamento do histórico de visualização é fragmentado entre diferentes
 | **RNF02** | **Segurança** | Implementar criptografia para dados sensíveis.
 | **RNF03** | **Desenvolvimento** | **Tecnologias:** React/Next.js (frontend), Node.js/Express e FastAPI (backend), PostgreSQL e Neo4j (dados), PyTorch Geometric (ML). |
 | **RNF04** | **Integração** | APIs RESTful e GraphQL para integração com serviços externos (TMDB, streaming platforms) e aplicativos de terceiros. |
-| **RNF05** | **Privacidade** | Controles granulares de privacidade permitindo usuários controlarem visibilidade de avaliações, listas e atividades. Opção de deletar conta e todos os dados. |
+| **RNF05** | **Privacidade** | Controles de privacidade que permitem usuários controlarem visibilidade de avaliações, listas e atividades. Opção de deletar conta e todos os dados. |
 
 ### 3.3 Diagrama de Casos de Uso
 
