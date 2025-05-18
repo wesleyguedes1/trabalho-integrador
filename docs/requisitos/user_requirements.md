@@ -2,11 +2,10 @@ UNIVERSIDADE FEDERAL DA FRONTEIRA SUL-UFFS
 CIÊNCIA DA COMPUTAÇÃO
 REQUISITOS DO USUÁRIO
 SISTEMA DE RECOMENDAÇÃO DE FILMES
-DEZEMBRO, 2025
+MAIO, 2025
 
-1 IDENTIFICAÇÃO DA SOLUÇÃO E STAKEHOLDERS
+1 IDENTIFICAÇÃO DA SOLUÇÃO
 
-1.1 IDENTIFICAÇÃO DA SOLUÇÃO
 
 Com o crescimento exponencial das plataformas de streaming e a vasta quantidade de conteúdo audiovisual disponível, os usuários enfrentam cada vez mais dificuldades para encontrar filmes que atendam aos seus gostos pessoais. A sobrecarga de opções frequentemente resulta em decisões de visualização insatisfatórias ou tempo excessivo gasto navegando entre catálogos.
 
