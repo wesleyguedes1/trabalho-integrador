@@ -11,7 +11,7 @@ Desenvolver uma aplicação web que utiliza tecnologias modernas para resolver o
 ## 🏗️ Organização do Projeto
 
 ```
-movie-recommendation-system/
+trabalho-integrador/
 ├── README.md
 ├── .gitignore
 ├── docs/
@@ -56,10 +56,6 @@ movie-recommendation-system/
 │   │   ├── logos/
 │   │   ├── screenshots/
 │   │   └── diagramas/
-│   └── bibliografia/
-│       ├── artigos.md
-│       ├── tutoriais.md
-│       └── referencias.md
 ```
 
 ## 🎓 CCRs (Componentes Curriculares)
