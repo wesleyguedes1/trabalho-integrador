@@ -11,6 +11,7 @@ Desenvolver uma aplicação web que utiliza tecnologias modernas para resolver o
 ## 💻 Equipe de Desenvolvimento
 
 Wesley Guedes de Oliveira
+
 Matríucla: 2311100014
 
 ## 🏗️ Organização do Projeto
