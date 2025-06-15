@@ -8,6 +8,11 @@ Este projeto consiste no desenvolvimento de um sistema de recomendação de film
 
 Desenvolver uma aplicação web que utiliza tecnologias modernas para resolver o problema da sobrecarga de opções em plataformas de streaming, oferecendo recomendações precisas e explicáveis.
 
+## 💻 Equipe de Desenvolvimento
+
+Wesley Guedes de Oliveira
+Matríucla: 2311100014
+
 ## 🏗️ Organização do Projeto
 
 ```
